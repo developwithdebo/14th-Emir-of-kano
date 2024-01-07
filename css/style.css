@@ -708,3 +708,11 @@ text-align: center;
     
     }
 }
+
+@media (max-width:600px) {
+    h3,
+    h5,
+    q{
+        font-size: medium;
+    }
+}
